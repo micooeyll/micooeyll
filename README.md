@@ -10,10 +10,16 @@
 
 6- 📬 [Contact](#-contact)
 
+--- 
+
 
 <a href="https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/" target="_blank">
 💼 Open LinkedIn Profile
 </a>
+
+
+---
+
 
 
 ----- My_Projects -----
