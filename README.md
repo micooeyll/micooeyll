@@ -1,35 +1,22 @@
-╔══════════════════════════════════════════════╗
-║   Microsoft Windows XP – Developer Edition   ║
-╠══════════════════════════════════════════════╣
-║ User: Eylul                                  ║
-║ System: DevOps Learning Environment          ║
-║ Status: 🟢 Running                           ║
-╚══════════════════════════════════════════════╝
+1- 📄 [My_Projects](#-my_projectstxt)
 
+2- 🖥 [Projects](#-projects)
 
------------------------------------------------
-🖥 Desktop
------------------------------------------------
+3- 🧠 [System Programming Lab](#-system-programming-lab)
 
-📄 [My_Projects.txt](#-my_projectstxt)
+4- 📚 [Data Structures Archive](#-data-structures-archive)
 
-🖥 [Projects](#-projects)
+5- ☕ [Java OOP Workspace](#-java-oop-workspace)
 
-🧠 [System Programming Lab](#-system-programming-lab)
+6- ⚙️ [Control Panel / Tech Stack](#-control-panel--tech-stack)
 
-📚 [Data Structures Archive](#-data-structures-archive)
-
-☕ [Java OOP Workspace](#-java-oop-workspace)
-
-⚙️ [Control Panel / Tech Stack](#-control-panel--tech-stack)
-
-📬 [Contact](#-contact)
+7- 📬 [Contact](#-contact)
 
 
 
-================================================
-📄 My_Projects.txt
-================================================
+
+----- My_Projects -----
+---
 
 Small experimental projects and exercises.
 
@@ -40,9 +27,8 @@ Small experimental projects and exercises.
 
 
 
-================================================
-🖥 Projects
-================================================
+---- Projects -----
+---
 
 🔹 Linux Processes Docker  
 👉 https://github.com/micooeyll/linux-processes-docker--DEVOPS
@@ -52,9 +38,8 @@ Small experimental projects and exercises.
 
 
 
-================================================
-🧠 System Programming Lab
-================================================
+----  System Programming Lab  ----
+---
 
 Low level Linux experiments.
 
@@ -65,9 +50,8 @@ Low level Linux experiments.
 
 
 
-================================================
-📚 Data Structures Archive
-================================================
+----  Data Structures Archive  ----
+---
 
 ✔ Binary Search Tree  
 ✔ Linked List Operations  
@@ -77,9 +61,8 @@ Low level Linux experiments.
 
 
 
-================================================
-☕ Java OOP Workspace
-================================================
+----  Java OOP Workspace  ----
+---
 
 ✔ Exception Handling Examples  
 ✔ GPA Calculation Application  
@@ -88,36 +71,21 @@ Low level Linux experiments.
 
 
 
-================================================
-⚙️ Control Panel / Tech Stack
-================================================
+----  About Me  ----
+---
 
 💻 Languages:
-C • Java
+C • Java • Python
 
-🐧 Platforms:
-Linux • WSL
+🐧 Platforms and applications that i can use :
+Linux • WSL • Eclipse • Modelio • Spyder 6 • Ardunio IDE • Microsoft Visual Studio • Notepad++ • Dev-C++
 
 🐳 DevOps Tools:
 Docker • Git • GitHub
 
-
-
-================================================
-📬 Contact
-================================================
+📬 Contact ;
 
 <a href="https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/" target="_blank">
 💼 Open LinkedIn Profile
 </a>
 
-
-
-════════════════════════════════════════════════
-🟢 System Tray
-════════════════════════════════════════════════
-
-User: Eylul  
-Mode: Developer  
-Focus: DevOps + System Programming  
-Portfolio Version: XP Hardcore Edition
