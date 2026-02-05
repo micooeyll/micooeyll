@@ -20,11 +20,9 @@
 
 Small experimental projects and exercises.
 
-- Algorithm experiments
-- Mini Linux demos
-- Personal coding practice
-- Learning playground implementations
-
+- DevOps Practices   -> https://github.com/stars/micooeyll/lists/devops
+- Java OOP Learning  -> https://github.com/stars/micooeyll/lists/java-oop-learning
+- Data Sturctures    -> https://github.com/stars/micooeyll/lists/data-structures
 
 
 ---- Projects -----
