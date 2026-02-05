@@ -1,18 +1,19 @@
 1- 📄 [My_Projects](#-my_projectstxt)
 
-2- 🖥 [Projects](#-projects)
+2- 🧠 [System Programming Lab](#-system-programming-lab)
 
-3- 🧠 [System Programming Lab](#-system-programming-lab)
+3- 📚 [Data Structures Archive](#-data-structures-archive)
 
-4- 📚 [Data Structures Archive](#-data-structures-archive)
+4- ☕ [Java OOP Workspace](#-java-oop-workspace)
 
-5- ☕ [Java OOP Workspace](#-java-oop-workspace)
+5- ⚙️ [Control Panel / Tech Stack](#-control-panel--tech-stack)
 
-6- ⚙️ [Control Panel / Tech Stack](#-control-panel--tech-stack)
-
-7- 📬 [Contact](#-contact)
+6- 📬 [Contact](#-contact)
 
 
+<a href="https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/" target="_blank">
+💼 Open LinkedIn Profile
+</a>
 
 
 ----- My_Projects -----
@@ -23,17 +24,6 @@ Small experimental projects and exercises.
 - DevOps Practices   -> https://github.com/stars/micooeyll/lists/devops
 - Java OOP Learning  -> https://github.com/stars/micooeyll/lists/java-oop-learning
 - Data Sturctures    -> https://github.com/stars/micooeyll/lists/data-structures
-
-
----- Projects -----
----
-
-🔹 Linux Processes Docker  
-👉 https://github.com/micooeyll/linux-processes-docker--DEVOPS
-
-🔹 Threaded Service Docker  
-👉 https://github.com/micooeyll/threaded-service-docker--DEVOPS
-
 
 
 ----  System Programming Lab  ----
