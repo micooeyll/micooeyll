@@ -6,9 +6,7 @@
 
 4- ☕ [Java OOP Workspace](#-java-oop-workspace)
 
-5- ⚙️ [Control Panel / Tech Stack](#-control-panel--tech-stack)
-
-6- 📬 [Contact](#-contact)
+5- 📬 [Contact](#-contact)
 
 --- 
 
