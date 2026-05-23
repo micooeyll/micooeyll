@@ -1,79 +1,77 @@
-1- 📄 [My_Projects](#-my_projectstxt)
+# Hi, I'm Eylul 👋
 
-2- 🧠 [System Programming Lab](#-system-programming-lab)
+Software Engineering Student in 2. year ,  focused on building strong engineering fundamentals across software, systems, and infrastructure.
 
-3- 📚 [Data Structures Archive](#-data-structures-archive)
+My work spans:
 
-4- ☕ [Java OOP Workspace](#-java-oop-workspace)
+* Algorithms & Data Structures
+* Object-Oriented Programming
+* Linux & Process Management
+* Containerization & DevOps
+* Backend Engineering
+* Cloud Infrastructure
+* Distributed Systems
 
-5- 📬 [Contact](#-contact)
+## Areas of Interest
 
---- 
+* Systems Programming
+* Cloud & DevOps
+* Kubernetes
+* Backend Architecture
+* Operating Systems
+* Scalable Infrastructure
+* Software Engineering Fundamentals
 
+## Tech Stack
 
-<a href="https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/" target="_blank">
-💼 Open LinkedIn Profile
-</a>
+### Languages
 
+* C
+* Python
+* Java
+
+### Systems & Infrastructure
+
+* Linux
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* Nginx
+
+### Backend & Tools
+
+* FastAPI
+* PostgreSQL
+* Redis
+* Git
+
+## Featured Projects
+
+### KubeForge — DEVOPS ( not finished )
+
+Production-grade infrastructure platform using Kubernetes, GitOps, CI/CD, and observability tooling.
+
+### Linux Processes Docker
+
+Exploration of Unix process synchronization and lifecycle behavior inside containers.
+
+### Threaded Service Docker
+
+Multi-threaded service architecture demonstrating process and threading concepts in containerized environments.
+
+### Binary Search Tree — C
+
+Implementation of ordered insertion and tree traversals using low-level memory management.
+
+### Event Memory Platform
+
+Backend-focused event-driven platform architecture project.
 
 ---
 
+I enjoy understanding systems from low-level internals to scalable infrastructure.
 
-
------ My_Projects -----
----
-
-Small experimental projects and exercises.
-
-- DevOps Practices   -> https://github.com/stars/micooeyll/lists/devops
-- Java OOP Learning  -> https://github.com/stars/micooeyll/lists/java-oop-learning
-- Data Sturctures    -> https://github.com/stars/micooeyll/lists/data-structures
-
-
-----  System Programming Lab  ----
----
-
-Low level Linux experiments.
-
-✔ fork() process creation  
-✔ pthread multi-thread programming  
-✔ PID lifecycle inside containers  
-✔ Process synchronization studies  
-
-
-
-----  Data Structures Archive  ----
----
-
-✔ Binary Search Tree  
-✔ Linked List Operations  
-✔ Josephus Problem  
-✔ Tree Traversal Algorithms  
-✔ Tower of Hanoi  
-
-
-
-----  Java OOP Workspace  ----
----
-
-✔ Exception Handling Examples  
-✔ GPA Calculation Application  
-✔ Getter / Setter Multi-Class Practice  
-✔ Java OOP Learning Repository  
-
-
-
-----  About Me  ----
----
-
-💻 Languages:
-C • Java • Python
-
-🐧 Platforms and applications that i can use :
-Linux • WSL • Eclipse • Modelio • Spyder 6 • Ardunio IDE • Microsoft Visual Studio • Notepad++ • Dev-C++
-
-🐳 DevOps Tools:
-Docker • Git • GitHub
 
 📬 Contact ;
 
