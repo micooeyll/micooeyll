@@ -1,81 +1,83 @@
 # Hi, I'm Eylul 👋
 
-Software Engineering Student in 2. year ,  focused on building strong engineering fundamentals across software, systems, and infrastructure.
+**Software Engineering Student** passionate about **Cloud, DevOps, Backend Engineering, and Operating Systems**. I enjoy building scalable software while understanding how systems work from low-level processes to cloud-native infrastructure.
 
-My work spans:
+I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I help organize technical events, workshops, and community activities while continuing to improve my software engineering skills through hands-on projects.
 
-* Algorithms & Data Structures
-* Object-Oriented Programming
-* Linux & Process Management
-* Containerization & DevOps
-* Backend Engineering
-* Cloud Infrastructure
+## 🚀 Interests
+
+* Cloud Computing
+* DevOps & Platform Engineering
+* Backend Development
+* Linux & Systems Programming
+* Kubernetes & Containerization
 * Distributed Systems
+* Software Architecture
 
-## Areas of Interest
-
-* Systems Programming
-* Cloud & DevOps
-* Kubernetes
-* Backend Architecture
-* Operating Systems
-* Scalable Infrastructure
-* Software Engineering Fundamentals
-
-## Tech Stack
+##  Tech Stack
 
 ### Languages
 
 * C
 * Python
 * Java
+* JavaScript
 
-### Systems & Infrastructure
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* PostgreSQL
+* SQLite
+* Redis
+* Sequelize
+
+### DevOps & Infrastructure
 
 * Linux
 * Docker
 * Kubernetes
 * Terraform
 * GitHub Actions
+* Git
 * Nginx
 
-### Backend & Tools
+##  Featured Projects
 
-* FastAPI
-* PostgreSQL
-* Redis
-* Git
+### Club Management System
 
-## Featured Projects
+A full-stack Event & Club Management System built with **Node.js, Express, Sequelize, SQLite, and MVC architecture**, featuring authentication, role-based authorization, and complete CRUD operations.
 
-### KubeForge — DEVOPS ( not finished )
+### KubeForge *(Work in Progress)*
 
-Production-grade infrastructure platform using Kubernetes, GitOps, CI/CD, and observability tooling.
+A cloud-native DevOps platform exploring **Kubernetes, GitOps, Infrastructure as Code, CI/CD, and observability**.
 
-### Linux Processes Docker
+### Linux Processes in Docker
 
-Exploration of Unix process synchronization and lifecycle behavior inside containers.
+A collection of Linux process management experiments demonstrating **fork(), wait(), process synchronization, and containerized execution**.
 
-### Threaded Service Docker
+### Threaded Service in Docker
 
-Multi-threaded service architecture demonstrating process and threading concepts in containerized environments.
+A multithreaded C application showcasing **thread lifecycle, synchronization, and PID 1 behavior inside Docker containers**.
 
-### Binary Search Tree — C
+### HAMS
 
-Implementation of ordered insertion and tree traversals using low-level memory management.
+A computer vision project built with Python for EMU ACM SpringFest, combining interactive AI concepts with a fun user experience.
 
-### Event Memory Platform
+##  Currently Learning
 
-Backend-focused event-driven platform architecture project.
+* Kubernetes in depth
+* CI/CD best practices
+* Cloud Infrastructure
+* Platform Engineering
+* Distributed Systems
 
 ---
 
-I enjoy understanding systems from low-level internals to scalable infrastructure.
 
+##  Connect with me
 
-📬 Contact ;
-
-<a href="https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/" target="_blank">
-💼 Open LinkedIn Profile
-</a>
+💼 LinkedIn:
+https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/
 
