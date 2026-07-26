@@ -78,6 +78,7 @@ A computer vision project built with Python for EMU ACM SpringFest, combining in
 
 ##  Connect with me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/
+- 📧 **Email:** micooeyll@icloud.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hamide-eyl%C3%BCl-mi%C3%A7oo%C4%9Fullar%C4%B1-830ba8386/
+
 
