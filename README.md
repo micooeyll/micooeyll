@@ -1,10 +1,10 @@
-# Hi, I'm Eylul 👋
+# Hi, I'm Eylul 
 
 **Software Engineering Student** passionate about **Cloud, DevOps, Backend Engineering, and Operating Systems**. I enjoy building scalable software while understanding how systems work from low-level processes to cloud-native infrastructure.
 
 I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I help organize technical events, workshops, and community activities while continuing to improve my software engineering skills through hands-on projects.
 
-## 🚀 Interests
+##  Interests
 
 * Cloud Computing
 * DevOps & Platform Engineering
