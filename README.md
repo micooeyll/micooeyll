@@ -2,7 +2,7 @@
 
 **Software Engineering Student** passionate about **Cloud, DevOps, Backend Engineering, and Operating Systems**. I enjoy building scalable software while understanding how systems work from low-level processes to cloud-native infrastructure.
 
-I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I help organize technical events, workshops, and community activities while continuing to improve my software engineering skills through hands-on projects.
+I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I help organize technical events, workshops, and community activities while continuing to improve my software engineering skills through hands-on projects.Passionate about building modern, scalable, and user-focused web applications.
 
 ##  Interests
 
@@ -13,6 +13,7 @@ I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I 
 * Kubernetes & Containerization
 * Distributed Systems
 * Software Architecture
+* Web Applications
 
 ##  Tech Stack
 
