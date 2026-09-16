@@ -6,8 +6,6 @@ I'm currently serving as **Vice Chair of the EMU ACM Student Chapter**, where I 
 
 ##  Interests
 
-* Cloud Computing
-* DevOps & Platform Engineering
 * Backend Development
 * Linux & Systems Programming
 * Kubernetes & Containerization
